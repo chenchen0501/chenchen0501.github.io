@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,d as o}from"./app.2175d0ad.js";const A=JSON.parse('{"title":"jsconfig.json\u57FA\u7840\u914D\u7F6E","description":"","frontmatter":{},"headers":[],"relativePath":"tools/jsconfig.md"}'),l={name:"tools/jsconfig.md"},p=o("",3),t=[p];function e(c,D,r,F,y,C){return a(),n("div",null,t)}var u=s(l,[["render",e]]);export{A as __pageData,u as default};
